@@ -72,4 +72,10 @@ For Xbox revisions 1.0 - 1.5 we must connect D0 to ground to force the system to
 ![Mounting Stellar](images/stellar_mount.png)
 
 ## Done
-All done!
+All done! 
+
+If you have an HDMI kit, then you can use the links below to install those.
+
+[Stellar XboxHD+ Installation Guide 1.0 - 1.5](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Installation%20Manual%20(Stellar%20XboxHD%2B%20v2%201.0%20-%201.5).md)
+
+[Stellar XboxHD+ Installation Guide 1.6](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Installation%20Manual%20(Stellar%20XboxHD%2B%20v2%201.6).md)

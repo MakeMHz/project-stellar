@@ -11,7 +11,8 @@ The knowledge base is a collection of information that hasn't quite found a plac
 ## Known Issues
 ### Video signal lost at the end of Stellar updates on HDMI systems
 Currently the Stellar board resets at the end of a firmware update causing HDMI video to drop. 
-**Workaround:** Power-off the system at the end of the update process.
+
+**Workaround:** Power-off the system at the end of the update process. It's safe to turn the system off when the output says so, or when the signal is lost.
 
 ## FAQ
 

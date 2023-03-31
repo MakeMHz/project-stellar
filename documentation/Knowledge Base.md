@@ -1,5 +1,5 @@
 # Knowledge Base 
-The knowledge base is a collection of information that hasn't quite found it place in another guide/manual for Project Stellar.
+The knowledge base is a collection of information that hasn't quite found a place in another guide/manual for Project Stellar.
 
 ## General
 #### In-Game Reset Button Combo

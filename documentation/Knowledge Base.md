@@ -8,6 +8,11 @@ The knowledge base is a collection of information that hasn't quite found a plac
 #### Custom Dashboard Path
 ``E:\dashboard\default.xbe``
 
+## Known Issues
+### Video signal lost at the end of Stellar updates on HDMI systems
+Currently the Stellar board resets at the end of a firmware update causing HDMI video to drop. 
+**Workaround:** Power-off the system at the end of the update process.
+
 ## FAQ
 
 #### What is 'Auto' fan speed?

@@ -14,6 +14,14 @@ Currently the Stellar board resets at the end of a firmware update causing HDMI 
 
 **Workaround:** Power-off the system at the end of the update process. It's safe to turn the system off when the output says so, or when the signal is lost.
 
+### Check for Update Freezing
+This is being investigated.
+
+**Workaround:** Reboot and try again
+
+### Savings settings freezes system
+Fixed in firmware version 1.0.2 (pending release)
+
 ## FAQ
 
 #### What is 'Auto' fan speed?

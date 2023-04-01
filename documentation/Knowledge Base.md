@@ -22,6 +22,11 @@ This is being investigated.
 ### Savings settings freezes system
 Fixed in firmware version 1.0.2 (pending release)
 
+### FlashFXP
+Connects but does not display any files.
+
+**Workaround:** Use an alternative FTP client such as FileZilla.
+
 ## FAQ
 
 #### What is 'Auto' fan speed?

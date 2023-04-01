@@ -30,6 +30,8 @@ Project Stellar takes full advantage of the LPC interface. On board Project Stel
 ## Documentation
 [Installation Manual](/documentation/Installation%20Guide.md)
 
+[Knowledge Base](/documentation/Knowledge%20Base.md)
+
 [Firmware Recovery](/documentation/Firmware%20Recovery.md)
 
 [Troubleshooting](/documentation/Troubleshooting.md)

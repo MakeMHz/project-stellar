@@ -23,7 +23,7 @@ This is being investigated.
 **Workaround:** Reboot and try again
 
 ### Savings settings freezes system
-Fixed in firmware version 1.0.2 (pending release)
+Fixed in firmware version 1.0.2.
 
 ### FlashFXP
 Connects but does not display any files.

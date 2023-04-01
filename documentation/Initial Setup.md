@@ -12,7 +12,7 @@ The initial setup for Project Stellar is pretty straightforward; this guide will
 ## Setup
 - Connect Project Stellar to your computer via USB
 
-- Navigate to [https://stellar.makemhz.com](stellar.makemhz.com)
+- Navigate to [stellar.makemhz.com](https://stellar.makemhz.com)
 
 ![Setup Screenshot](images/inital_setup_1.png)
 

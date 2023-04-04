@@ -18,17 +18,19 @@ Currently the Stellar board resets at the end of a firmware update causing HDMI 
 **Workaround:** Power-off the system at the end of the update process. It's safe to turn the system off when the output says so, or when the signal is lost.
 
 ### Check for Update Freezing
-This is being investigated.
+This is being investigated. Improved in firmware version 1.0.2
 
 **Workaround:** Reboot and try again
 
 ### Savings settings freezes system
-Fixed in firmware version 1.0.2.
+~~Fixed in firmware version 1.0.2.~~
 
 ### FlashFXP
-Connects but does not display any files.
+~~Connects but does not display any files.~~
 
-**Workaround:** Use an alternative FTP client such as FileZilla.
+~~**Workaround:** Use an alternative FTP client such as FileZilla.~~
+
+Fixed in firmware version 1.0.3
 
 ## FAQ
 

@@ -9,6 +9,10 @@ The knowledge base is a collection of information that hasn't quite found a plac
 ``E:\dashboard\default.xbe``
 
 ## Hard Drive and Partitioning
+A small write up on drive paritioning can be found here from our [Project Stellar - Firmware Update 1.1.2](https://makemhz.com/blogs/news/project-stellar-firmware-update-1-1-2) update post.
+
+![Setup Screenshot](images/troubleshooting/hdd_error_2.png)
+
 ### Common Issues
 - Missing extended paritions.
 - Missing files.
@@ -17,20 +21,34 @@ The knowledge base is a collection of information that hasn't quite found a plac
 ### Cause
 - Corrupt/missing partition table.
 - Corrupt filesystem.
-- Unsupported cluster size.
+- Unsupported partition cluster sizing.
 
-### Partition Mount Error Codes
+### Error Codes
 
 #### 0xC000014F - CLUSTER_SIZE
 Stellar requires that partitions are limited to 2^24 clusters due to how the kernel caches file information in-memory.
 
 ### Solutions
-- If the system partitions are mounting correctly, then the "Format Extended Partitions" tool can be used, inside of StellarOS, to format the extended paritions and to create a new valid partition table.
+- If the system partitions are mounting correctly, then the Format Hard Drive" -> "Format Extended Partitions" tool can be used, inside of StellarOS, to format the extended paritions and to create a new valid partition table.
 - If none of the partitions are mounting correctly then a full drive reformat will be required. StellarOS provides this tool under "Format Hard Drive" -> "Wipe Entire Drive".
 
+## Custom Dashboard
+Be sure to check the diagnostic screen. A warning will be displayed if the custom dashboard path is missing.
+
+![Setup Screenshot](images/troubleshooting/diagnostics.png)
+
+### Common Issues
+- Custom dashboard not loading (stock retail dashboard loading instead).
+
+### Cause
+- Missing ``E:\dashboard\default.xbe``
+- Corrupt ``E:\dashboard\default.xbe`` or missing assets
+- Corrupt, or missing, E partition.
+
+### Solution
+- Move(rename) your desired dash board to ``E:\dashboard\default.xbe``
+
 ## Known Issues
-### 100% Fan Speed
-This is being investigated.
 
 ### Video signal lost at the end of Stellar updates on HDMI systems
 Currently the Stellar board resets at the end of a firmware update causing HDMI video to drop.
@@ -53,9 +71,6 @@ This is being investigated. Improved in firmware version 1.0.2
 Fixed in firmware version 1.0.3
 
 ## FAQ
-
-#### What is 'Auto' fan speed?
-Auto fan speed allows the SMC to control the system's fan speed. This is the same as stock.
 
 #### What about INSERT feature?
 The goal right now is making sure all orders ship out and everything is 100% stable before enabling or adding additional features.

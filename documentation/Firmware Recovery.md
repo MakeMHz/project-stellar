@@ -13,7 +13,7 @@ Click and download the ``stellar_recovery.uf2`` file.
 ![Firmware Recovery](images/firmware/download.png)
 
 ## Restore
-Drag and drop the 'stellar_recovery.uf2' to the RPI-RP2 drive. Wait for the file transfer to complete. This process can take up to 10 minutes, so be patient.
+Drag and drop the ``stellar_recovery.uf2`` file to the RPI-RP2 drive. Wait for the file transfer to complete. This process can take up to 10 minutes, so be patient.
 
 ![Firmware Recovery](images/firmware/copy_1.png)
 

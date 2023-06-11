@@ -22,13 +22,20 @@ A small write up on drive paritioning can be found here from our [Project Stella
 - Corrupt/missing partition table.
 - Corrupt filesystem.
 - Unsupported partition cluster sizing.
+- 40 wire IDE cable with SATA adapter.
 
 ### Error Codes
+
+#### All Error Codes - General
+Some IDE to SATA adapters require the use of a 80 wire IDE cable instead of the stock 40 wire IDE cable that's found in the Xbox. Swapping this out can resolve these issues.
+
+##### Solutions
+- Purchase a known good [80 wire IDE Cable](https://www.ebay.com/itm/264927666468).
 
 #### 0xC000014F - CLUSTER_SIZE
 Stellar requires that partitions are limited to 2^24 clusters due to how the kernel caches file information in-memory.
 
-### Solutions
+##### Solutions
 - If the system partitions are mounting correctly, then the Format Hard Drive" -> "Format Extended Partitions" tool can be used, inside of StellarOS, to format the extended paritions and to create a new valid partition table.
 - If none of the partitions are mounting correctly then a full drive reformat will be required. StellarOS provides this tool under "Format Hard Drive" -> "Wipe Entire Drive".
 

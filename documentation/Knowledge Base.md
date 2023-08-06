@@ -2,8 +2,8 @@
 The knowledge base is a collection of information that hasn't quite found a place in another guide/manual for Project Stellar.
 
 ## General
-#### In-Game Reset Button Combo
-``Left Stick Button + Right Stick Button + Full Left Trigger + Full Right Trigger``
+#### Default In-Game Reset Button Combo
+``Full Left Trigger + Full Right Trigger + BACK + BLACK``
 
 #### Custom Dashboard Path
 ``E:\dashboard\default.xbe``

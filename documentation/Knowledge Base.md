@@ -55,6 +55,11 @@ Be sure to check the diagnostic screen. A warning will be displayed if the custo
 ### Solution
 - Move(rename) your desired dash board to ``E:\dashboard\default.xbe``
 
+## Offline Firmware Updating
+For offline firmware updating, there are currently two options.
+- Via USB; follow the [Firmware Recovery](documentation/Firmware%20Recovery.md) guide.
+- Via XBE; FTP the release ``StellarUpdateFW.xbe`` to your Xbox and use your custom dashboard of choice to launch it.
+
 ## Known Issues
 
 ### Video signal lost at the end of Stellar updates on HDMI systems

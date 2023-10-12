@@ -28,10 +28,9 @@ Project Stellar takes full advantage of the LPC interface. On board Project Stel
 [Product Press Release](https://makemhz.com/blogs/news/announcing-project-stellar-plus-more)
 
 ## Documentation
-[Installation Manual](/documentation/Installation%20Guide.md)
-
-[Knowledge Base](/documentation/Knowledge%20Base.md)
-
-[Firmware Recovery](/documentation/Firmware%20Recovery.md)
-
-[Troubleshooting](/documentation/Troubleshooting.md)
+* [Initial Setup](https://support.makemhz.com/project-stellar/initial-setup)
+* [Installation Guide](https://support.makemhz.com/project-stellar/installation-guide)
+* [Installation Troubleshooting](https://support.makemhz.com/project-stellar/installation-troubleshooting)
+* [Firmware Recovery](https://support.makemhz.com/project-stellar/firmware-recovery)
+* [Knowledge Base](https://support.makemhz.com/project-stellar/knowledge-base)
+* [User Guide](https://support.makemhz.com/project-stellar/user-guide/getting-started)

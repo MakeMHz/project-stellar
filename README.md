@@ -5,7 +5,6 @@
  <a href=""><img src="https://img.shields.io/discord/643467096906399804.svg" alt="Chat"></a>
  <a href="https://github.com/MakeMHz/project-stellar/issues"><img src="https://img.shields.io/github/issues/MakeMHz/project-stellar.svg" alt="GitHub Issues"></a>
  <a href=""><img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions welcome"></a>
- <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/MakeMHz/project-stellar.svg?color=green" alt="License"></a>
 </p>
 
 > stellar (adj) - exceptionally good; outstanding.

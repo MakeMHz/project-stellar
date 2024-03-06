@@ -10,7 +10,7 @@
 > stellar (adj) - exceptionally good; outstanding.
 
 The world's most powerful add-on for the Original Xbox. StellarOS is the first completely legal re-implementation of the retail Xbox BIOS.
-
+<br clear="both"/>
 
 ## About
 ![screenshot](resources/images/banner.png)

@@ -1,0 +1,82 @@
+PRIVACY POLICY
+Last Updated: 2026
+
+MakeMHz LLC ("Company", "we", "us", or "our") respects your privacy. This Privacy Policy explains how we collect, use,
+and protect information in connection with our software, firmware, and hardware products ("Software" and "Product").
+
+1. Scope
+
+This Privacy Policy applies to information collected through the Software and in connection with the operation of the
+Product, including software updates and related services.
+
+2. Information We Collect
+
+We collect limited technical information necessary to operate, secure, and maintain the Software and Product. This may include:
+
+- Device identifiers (such as unique hardware or firmware IDs)
+- Firmware version and update status
+- Software integrity and authenticity data
+- Basic diagnostic or operational data related to updates and system functionality
+
+We do not intentionally collect personal information such as names, addresses, or contact details through the Software.
+
+3. How We Use Information
+
+We use collected information for the following purposes:
+
+- Providing software updates and related services
+- Verifying device authenticity and Software integrity
+- Enforcing license terms and preventing unauthorized use
+- Detecting, preventing, and responding to security issues or abuse
+- Improving product functionality, reliability, and performance
+
+ENFORCEMENT AND SERVICE ELIGIBILITY
+
+Information collected by the Software may be used to determine eligibility for software updates, online services, and
+other functionality.
+
+MakeMHz LLC may deny, restrict, or revoke access to updates or services if the Company reasonably determines that a device
+or Software instance is unauthorized, modified, tampered with, or otherwise in violation of applicable license terms.
+
+4. Sharing of Information
+
+We do not sell or rent your information.
+
+We may share limited technical data with service providers that assist in operating our infrastructure (such as update
+delivery systems or hosting providers), solely for the purposes described in this Policy.
+
+We may also disclose information if required to do so by law or in response to valid legal requests.
+
+5. Data Retention
+
+We retain collected information only as long as necessary to fulfill the purposes described in this Policy, including
+maintaining service functionality, enforcing license terms, and ensuring system security.
+
+6. Security
+
+We take reasonable administrative, technical, and organizational measures to protect the information we collect from
+unauthorized access, disclosure, alteration, or misuse.
+
+7. International Use
+
+Our services may be operated from the United States. By using the Software, you acknowledge that information may be
+processed and stored in the United States and other jurisdictions where our service providers operate.
+
+8. User Rights
+
+Depending on your location, you may have rights regarding your data, including the right to access, correct, or request
+deletion of your information.
+
+Requests may be submitted using the contact information below.
+
+9. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updated versions will be made available with the Software or through
+official Company channels. Continued use of the Software after changes constitutes acceptance of the updated Policy.
+
+10. Contact
+
+If you have questions about this Privacy Policy or wish to make a request regarding your data, you may contact:
+
+MakeMHz LLC
+privacy@makemhz.com

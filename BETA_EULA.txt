@@ -1,0 +1,62 @@
+BETA SOFTWARE PROGRAM AGREEMENT
+Last Updated: 2026
+
+This Beta Software Program Agreement ("Agreement") governs your access to and use of pre-release, beta, or preview
+versions of software ("Beta Software") provided by MakeMHz LLC ("Company").
+
+By installing or using Beta Software, you agree to this Agreement and the applicable End User License Agreement (EULA).
+
+1. Beta Status
+
+The Beta Software is pre-release and may be incomplete, unstable, or contain defects. It may cause system instability,
+data loss, or hardware issues.
+
+2. No Obligation
+
+The Company is under no obligation to provide updates, support, or to release any Beta Software as a final product.
+
+3. Revocation
+
+Access to Beta Software may be revoked at any time, for any reason, without notice.
+
+4. Data Collection and Use
+
+The Beta Software may collect and transmit technical information necessary to operate, maintain, and enforce the Software
+and related services.
+
+This may include:
+
+- Device identifiers
+- Firmware and software integrity data
+- Usage related to updates and system status
+
+This data may be used for:
+
+- License enforcement
+- Product security and integrity verification
+- Prevention of unauthorized, cloned, or modified devices
+- Improving product functionality
+
+5. Enforcement
+
+Access to Beta Software, updates, or related services may be denied or revoked if the Company determines that:
+
+- The device is unauthorized, cloned, or not genuine
+- The Software has been modified or tampered with
+- The User has violated the EULA or this Agreement
+
+6. Feedback
+
+Any feedback, suggestions, or reports provided by you may be used by the Company without restriction or compensation.
+
+7. Disclaimer
+
+THE BETA SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, MAKEMHZ LLC SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE BETA SOFTWARE.
+
+9. Governing Law
+
+This Agreement is governed by the laws of the State of Georgia, United States.

@@ -1,0 +1,30 @@
+Copyright (c) 2025-2026 MakeMHz LLC. All rights reserved.
+
+PROPRIETARY SOFTWARE LICENSE
+
+This software, including all source code, binaries, firmware, and related materials
+(the "Software"), is the proprietary and confidential property of MakeMHz LLC.
+
+Permission is granted to use the Software solely in connection with authorized
+MakeMHz products, subject to the terms and conditions of the accompanying End User
+License Agreement (EULA).
+
+No rights are granted to copy, modify, distribute, sublicense, or create derivative
+works of the Software, except as expressly permitted by the EULA or with prior
+written permission from MakeMHz LLC.
+
+The Software is licensed, not sold. All rights, title, and interest in and to the
+Software remain with MakeMHz LLC and its licensors.
+
+THIRD-PARTY SOFTWARE
+
+This Software may include components licensed under third-party open-source or other
+licenses. Such components are governed by their respective licenses, and those
+licenses may grant rights that supersede portions of this License.
+
+Nothing in this License is intended to limit or restrict any rights granted under
+applicable third-party licenses.
+
+UNAUTHORIZED USE
+
+Any unauthorized use of the Software is strictly prohibited.
